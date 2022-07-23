@@ -35,6 +35,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginTop="20dp"
+        android:fontFamily="@font/roboto_light"
         android:text="OWN A BIRD"
         android:textSize="24sp"
         app:layout_constraintStart_toStartOf="parent"
