@@ -163,6 +163,7 @@
         app:layout_constraintTop_toBottomOf="@id/sign_up"
         android:text="Log In"
         app:strokeColor="?attr/colorOnSurface"
+        app:strokeWidth="2dp"
         style="?attr/materialButtonOutlinedStyle"
         />
 
