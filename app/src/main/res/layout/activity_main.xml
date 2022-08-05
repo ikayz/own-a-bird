@@ -152,4 +152,17 @@
         app:layout_constraintTop_toBottomOf="@id/password"
         android:text="Sign Up"/>
 
+    <Button
+        android:id="@+id/log_in"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toStartOf="@id/sign_up"
+        app:layout_constraintTop_toBottomOf="@id/sign_up"
+        android:text="Log In"
+        style="?attr/materialButtonOutlinedStyle"
+        />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
